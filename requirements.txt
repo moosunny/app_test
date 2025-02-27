@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+googlemaps
+python-dotenv
+langchain-openai
+langchain
+langgraph
+spotipy
+openpyxl
+typing
